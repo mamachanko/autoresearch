@@ -1,0 +1,23 @@
+{
+  "name": "autoresearch",
+  "version": "1.0.0",
+  "description": "Autonomous experiment loop skill — run, measure, keep or discard. Inspired by karpathy/autoresearch and pi-autoresearch.",
+  "license": "MIT",
+  "author": "Max Brauer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mamachanko/autoresearch"
+  },
+  "keywords": [
+    "agent-skill",
+    "agent-skills",
+    "autoresearch",
+    "optimization",
+    "experiment-loop"
+  ],
+  "files": [
+    "skills/",
+    "README.md",
+    "LICENSE"
+  ]
+}
